@@ -1,4 +1,5 @@
 Liste de courses
--chips
--jus de pomme
+- chips
+- jus de pomme
 - pizza
+- gâteau au chocolat
